@@ -1,19 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:35.465039
+#+DATE: 2015-08-30 20:08:38.433168
 #+TITLE: 佛說灌頂經
 #+PROPERTY: CBETA_ID T21n1331
 #+PROPERTY: ID KR6i0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1331
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6i0051_T_010-0523c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T@LI
+#+PROPERTY: LASTPB <pb:KR6i0051_T_010-0523c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
-佛說灌頂梵天神策經
- 佛說灌頂梵天神策經卷第十¶
+佛說灌頂梵天神策經卷第十¶
 ¶
 東晉天竺三藏帛尸梨蜜多羅譯¶
 
@@ -87,7 +85,7 @@
 　出道逢官家
 　恒為吏所縛¶
 　念汝少孤苦
-　跉𨂲在道門¶
+　跉𨂲[跳-兆+屏]在道門¶
 　正心相和順
 　勿令他生怨¶
 　報心無虧盈
