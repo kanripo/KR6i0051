@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:35.377463
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:28
 #+TITLE: 佛說灌頂經
 #+PROPERTY: CBETA_ID T21n1331
 #+PROPERTY: ID KR6i0051
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 6
 ¶
 
-佛說灌頂塚墓因緣四方神呪經
+* 佛說灌頂塚墓因緣四方神呪經
  佛說灌頂塚墓因緣四方神呪經¶
 卷第六¶
 ¶
