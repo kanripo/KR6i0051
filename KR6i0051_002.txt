@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:35.273246
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:28
 #+TITLE: 佛說灌頂經
 #+PROPERTY: CBETA_ID T21n1331
 #+PROPERTY: ID KR6i0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1331
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0051_T_002-0499b> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
-佛說灌頂十二萬神王護比丘尼經
- 佛說灌頂十二萬神王護比丘尼¶
+佛說灌頂十二萬神王護比丘尼¶
 經卷第二¶
 ¶
 東晉天竺三藏帛尸梨蜜多羅譯¶
@@ -60,11 +58,11 @@
 字云何。願為解說。佛言阿難其神名字我今¶
 說之。灌頂章句其名如是。¶
 
-神名枝活吒貨[椽/土]字淨自在此神主護某頭¶
+神名枝活吒貨󱁉[椽/土]字淨自在此神主護某頭¶
 
-神名倪提惒和[椽/土]字妙善生此神主護某眼¶
+神名倪提惒和󱁉[椽/土]字妙善生此神主護某眼¶
 
-神名波羅惒和[椽/土]字暉日光此神主護某鼻¶
+神名波羅惒和󱁉[椽/土]字暉日光此神主護某鼻¶
 
 神名和沙頭提手字信堅固此神主護某耳¶
 

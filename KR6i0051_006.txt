@@ -1,18 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:35.377463
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:28
 #+TITLE: 佛說灌頂經
 #+PROPERTY: CBETA_ID T21n1331
 #+PROPERTY: ID KR6i0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1331
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0051_T_006-0512a> 
 #+PROPERTY: JUAN 6
 ¶
-
-佛說灌頂塚墓因緣四方神呪經
- 佛說灌頂塚墓因緣四方神呪經¶
+佛說灌頂塚墓因緣四方神呪經¶
 卷第六¶
 ¶
 東晉天竺三藏帛尸梨蜜多羅譯¶
@@ -135,8 +133,7 @@
 上。朝拜先亡瞻視山野。忽為鬼神之所嬈亂。¶
 是故恐怖戰掉如是。我今歸命於佛世尊。施¶
 我法術令身安寧。及餘一切無量眾生。皆令¶
-離苦得安隱樂。不為鬼神之所嬈亂。佛語釋¶
-種童子。汝今日來此大眾中始為幾會。五百¶
+離苦得安隱樂。不為鬼神之所嬈亂。佛語釋種童子。汝今日來此大眾中始為幾會。五百¶
 末利伽及賢者阿難。適問於我塚塔因緣。始¶
 竟於今會。汝復請法術妙義汝今當一心
 <pb:KR6i0051_T_006-0513b>¶

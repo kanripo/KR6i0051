@@ -1,18 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:35.396665
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:28
 #+TITLE: 佛說灌頂經
 #+PROPERTY: CBETA_ID T21n1331
 #+PROPERTY: ID KR6i0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1331
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0051_T_007-0515a> 
 #+PROPERTY: JUAN 7
 ¶
-
-佛說灌頂伏魔封印大神呪經
- 佛說灌頂伏魔封印大神呪經卷¶
+佛說灌頂伏魔封印大神呪經卷¶
 第七¶
 ¶
 東晉天竺三藏帛尸梨蜜多羅譯¶
@@ -126,8 +124,7 @@
 佛演說文頭婁歡喜無量稽首佛足。長跪白¶
 佛言。我今欲承佛威神。勅四天王并其神名¶
 字。為文頭婁法勸佐。世尊唯願許可。佛言聽¶
-汝演說。天帝釋即便前禮佛足三自歸命。歸¶
-命已訖語四眾言。今佛世尊聽我演說四王¶
+汝演說。天帝釋即便前禮佛足三自歸命。歸命已訖語四眾言。今佛世尊聽我演說四王¶
 名字。以護四輩諸弟子眾。舍宅四方攘災却¶
 禍。逐諸邪鬼遠於界內。既已聽說今我演¶
 之。¶
